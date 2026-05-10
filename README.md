@@ -1,4 +1,4 @@
-# Greencoin Token List
+# Greencoin
 
 Official token list for the Greencoin ecosystem.
 
